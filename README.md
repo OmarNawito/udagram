@@ -32,7 +32,7 @@ In order to view current deployment on S3
 
 Frontend Environment:
         S3 bucket: udacity122
-        S3 URL: http://udacity122.s3-website-us-east-1.amazonaws.com/
+        S3 URL: http://udacity122.s3-website-us-east-1.amazonaws.com
 
 ![Alt text](https://github.com/OmarNawito/udagram/blob/master/documents/screenshots/s3.PNG "Frontend Environment")
 
@@ -40,7 +40,7 @@ Frontend Environment:
 In order to view current deployment on Elastic beanstalk
 
 Backend Environment:
-        URL: http://udacity-udagram.eba-ncqucfci.us-east-1.elasticbeanstalk.com/
+        URL: http://udacity-udagram.eba-ncqucfci.us-east-1.elasticbeanstalk.com
 
 ![Alt text](https://github.com/OmarNawito/udagram/blob/master/documents/screenshots/eb.PNG "Backend Environment")
 
@@ -56,6 +56,16 @@ Deployment Pipeline:
         GitHub project - https://github.com/OmarNawito/udagram
 
 ![Alt text](https://github.com/OmarNawito/udagram/blob/master/documents/screenshots/CircleCI.PNG "Deployment Pipeline")
+
+### Illustration Diagram
+
+- Infrastructure of the application
+
+![Alt text](https://github.com/OmarNawito/udagram/blob/master/documents/screenshots/b8ed48be1946912a5e0da263c1fc8f17.png "Infrastructure of the application")
+
+- Piplining
+
+![Alt text](https://github.com/OmarNawito/udagram/blob/master/documents/screenshots/68747470733a2f2f64302e6177737374617469632e636f6d2f706172746e65722d6e6574776f726b2f517569636b53746172742f646f746e65742d7365727665726c6573732d636963642d6172636869746563747572652e706e67.png"Piplining")
 
 ### Dependencies
 
